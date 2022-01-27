@@ -4,14 +4,14 @@
 - **dateDate** - house was sold
 - **pricePrice** - is prediction target
 - **bedroomsNumber** - # of bedrooms
-- **bathroomsNumber** - # of bathrooms
+- **bathroomsNumber** - # of bathrooms, where 0.5 accounts for a room with a toilett but no shower
 - **sqft_livingsquare** - footage of the home
-- **sqft_lotsquare** - footage of the lot
+- **sqft_lotsquare** - footage of the lot / land space
 - **floorsTotal** - floors (levels) in house
 - **waterfront** - House which has a view to a waterfront
-- **view** - Has been viewed
-- **condition** - How good the condition is ( Overall )
-- **grade** - overall grade given to the housing unit, based on King County grading system
+- **view** - Has been viewed, an index from 0 to 4 to classify how good the view of the property was
+- **condition** - How good the condition is ( Overall ) from 1 to 5
+- **grade** - overall grade given to the housing unit, based on King County grading system, from 1 to 13 (with 1-3 falls short of building construction and design, 7 has an average , 11-13 have a hight quality level of construction and design
 - **sqft_above** - square footage of house apart from basement
 - **sqft_basement** - square footage of the basement
 - **yr_built** - Built Year
