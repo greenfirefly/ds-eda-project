@@ -6,7 +6,7 @@ This repository contains a EDA on the King County Housing Data Set.
 The purpose of this EDA is to find insights into the King County House Market, by analyzing the data in regards to three hypotheses, which we either confirm or discard during this EDA. The insights gained throughout this process will be used at a later point to get insight into a specific stakeholder situation and make fitting and relevant recommendations in regard to their situation.
 
 
-## Table of Contents
+## Repository Content
 
 As this repository come into existence due to an assignment of the Data Science Bootcamp from NeueFische, it also contains the following documents:
 
@@ -22,7 +22,7 @@ In addition to the jupyter notebook containing the full EDA incl. code, a presen
 
 ## Data
 
-The data set used for this EDA was the official King County housing data set for the period 9.9.2014 to 01.10.2015.
+The data set used for this EDA was the official King County housing data set for the period 9.9.2014 to 01.10.2015, which can also be found on [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction?select=kc_house_data.csv).
 
 
 ## Installation and Setup
