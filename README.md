@@ -14,10 +14,10 @@ As this repository come into existence due to an assignment of the Data Science 
 2. [Workflow](workflow.md)
 3. [column_names](column_names.md)
 
-In addition to the jupyter notebook containing the full EDA incl. code, a presentation which highlights the hypothesis analysis and stakeholder recommendation is also included within this repository.
+In addition to the jupyter notebook containing the full EDA incl. code, a presentation which highlights the hypotheses analysis and stakeholder recommendation is also included within this repository.
 
 4. [EDA](EDA.ipynb)
-5. Presentation
+5. [Presentation](EDA_presentation.pdf)
 
 
 ## Data
