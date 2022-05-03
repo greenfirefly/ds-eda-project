@@ -16,9 +16,11 @@ As this repository come into existence due to an assignment of the Data Science 
 
 In addition to the jupyter notebook containing the full EDA incl. code, a presentation which highlights the hypotheses analysis and stakeholder recommendation is also included within this repository.
 
-4. [EDA](EDA.ipynb)
+4. [basic EDA](EDA_basic.ipynb)
 5. [Presentation](EDA_presentation.pdf)
 
+Additionally, an advanced EDA approach has been incorporated, to see if different insights can be generated.
+6. [advanced EDA](EDA_advanced.ipynb)
 
 ## Data
 
