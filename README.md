@@ -20,6 +20,7 @@ In addition to the jupyter notebook containing the full EDA incl. code, a presen
 5. [Presentation](EDA_presentation.pdf)
 
 Additionally, an advanced EDA approach has been incorporated, to see if different insights can be generated.
+
 6. [advanced EDA](EDA_advanced.ipynb)
 
 ## Data
